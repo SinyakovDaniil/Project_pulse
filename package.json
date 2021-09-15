@@ -13,11 +13,11 @@
     "gulp": "^4.0.2",
     "gulp-autoprefixer": "^6.1.0",
     "gulp-clean-css": "^4.3.0",
-    "gulp-cli": "^2.2.0",
+    "gulp-cli": "^2.3.0",
     "gulp-rename": "^1.4.0",
     "gulp-sass": "^5.0.0",
     "livereload": "^0.9.3",
-    "sass": "^1.35.1"
+    "sass": "^1.41.0"
   },
   "browserslist": [
     "last 1 version",
